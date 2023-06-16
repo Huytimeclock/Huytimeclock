@@ -1,4 +1,4 @@
-discord: Huytimeclock#8787
+discord: Huytimeclock
 
 <!---
 Huytimeclock/Huytimeclock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
